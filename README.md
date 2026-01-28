@@ -1,11 +1,6 @@
-# Super Kirby Bro - Proyecto Final Modelos de Programación
+# Super Kirby Bro
 
-## 👥 Integrantes
-- **Jorge Miguel Méndez Barón** — 20241020030
-- **Ladi Yolima Martínez Quiñones** — 20231020197
-- **Juan Esteban Ariza Ortiz** — 20241020005
-
-## 🎮 Descripción del Proyecto
+##Descripción del Proyecto
 **Super Kirby Bro** es un videojuego de plataformas 2D desarrollado en Python con la librería `pygame`. El juego presenta un sistema de generación procedural de mundos, donde el jugador debe atravesar diferentes biomas (Pasto, Desierto, Hielo), esquivar trampas, vencer enemigos y recolectar potenciadores (PowerUps) para llegar a la meta.
 
 El proyecto destaca por su arquitectura de software modular y la implementación explícita de **7 Patrones de Diseño** clásicos, demostrando buenas prácticas de programación orientada a objetos.
@@ -31,7 +26,7 @@ El diagrama de el proyecto a continuación implementa 7 patrones de diseño:
 <img width="2338" height="668" alt="image" src="https://github.com/user-attachments/assets/8f8c73b2-e721-4976-aaec-f3073eacda08" />
 
 
-## 🏗️ Arquitectura y Patrones de Diseño Aplicados
+##Arquitectura y Patrones de Diseño Aplicados
 
 A continuación se detallan los patrones de diseño implementados en el código fuente:
 
@@ -279,7 +274,7 @@ Para tener un **sistema de eventos desacoplado**. Diferentes subsistemas (UI, Au
 
 ---
 
-## 🚫 Patrón NO Implementado
+##Patrón NO Implementado
 
 ### Singleton Pattern
 
